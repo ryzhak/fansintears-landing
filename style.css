@@ -1,13 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny|Open+Sans&display=swap');
+
 body {
-	background: #33475c;
+	background: #FB8B23;
 	color: #fff;
+	font-family: 'OpenSans';
 }
 
 /* Helpers */
 .highlight {
-	color: #e54f37;
-	font-weight: bold;
-	font-family: serif;
+	font-family: Coiny;
 }
 
 /* Header */
@@ -16,6 +17,7 @@ body {
     border-radius: 25px;
 }
 .header .logo-text {
+	font-family: 'Coiny';
     font-size: 2em;
 }
 
